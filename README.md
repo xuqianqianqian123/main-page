@@ -7,7 +7,7 @@ element ui
 ## 代码实现
 本页使用的是bootstrap的框架，对其中的内容进行了小的修改；然后使用element ui中的一个按钮组件来实现切换主题颜色的功能
 ## 目录结构描述
-├── Readme.md                   // help
+├── Readme.md                   // help<br>
 ├── index.html                         
 ├── cover.css                      
 ├── bootstrap.min.css           
